@@ -1,16 +1,30 @@
-## Hi there 👋
+# Ihor Syvash
 
-<!--
-**ihorsyv/ihorsyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / Full-Stack Developer building production AI products from idea to deployment.
 
-Here are some ideas to get you started:
+I moved from a career in logistics and law into software development, and now build full-stack, AI-powered applications end to end: architecture, backend, frontend, and shipping to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+## Projects
+
+**[GardeRobot](https://garderobot.ai)**
+Production AI stylist SaaS. Designed and built the full product: frontend, backend, database architecture, and a multi-provider AI router with automatic fallback across 8+ text and vision models.
+
+**[LexIA](https://legal-assistant-green-omega.vercel.app)** ([source](https://github.com/ihorsyv/legal-assistant))
+AI navigator for French law. Describe a situation in Russian or Ukrainian and get the relevant Legifrance articles with a plain-language summary and translation.
+
+**[Stylist](https://stylist-teal.vercel.app)** ([source](https://github.com/ihorsyv/stylist))
+Booking and portfolio website for a personal fashion stylist.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ihor-syvash-b5b67b68/)
