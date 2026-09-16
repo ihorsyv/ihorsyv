@@ -16,13 +16,16 @@ I moved from a career in logistics and law into software development, and now bu
 
 ## Projects
 
-**[GardeRobot](https://garderobot.ai)**
+**[GardeRobot](https://garderobot-new.vercel.app)** | [Telegram bot](https://t.me/GardeRobotBot)
 Production AI stylist SaaS. Designed and built the full product: frontend, backend, database architecture, and a multi-provider AI router with automatic fallback across 8+ text and vision models.
 
-**[LexIA](https://legal-assistant-green-omega.vercel.app)** ([source](https://github.com/ihorsyv/legal-assistant))
+**[LexIA](https://legal-assistant-green-omega.vercel.app)**
 AI navigator for French law. Describe a situation in Russian or Ukrainian and get the relevant Legifrance articles with a plain-language summary and translation.
 
-**[Stylist](https://stylist-teal.vercel.app)** ([source](https://github.com/ihorsyv/stylist))
+**Gidee**
+Branded PDF-guide builder, replaces hand-built slide decks for a styling business's lookbook and lead-magnet guides.
+
+**[Stylist](https://stylist-teal.vercel.app)**
 Booking and portfolio website for a personal fashion stylist.
 
 ## Connect
